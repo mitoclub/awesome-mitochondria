@@ -12,7 +12,7 @@
 2. [MITOMAP](https://www.mitomap.org) - database of polymorphisms and mutations in human mitochondrial DNA
 3. [HaploGrep](https://haplogrep.i-med.ac.at/) - haplogroup classification tool
 4. [AmtDB](https://amtdb.org/) - ancient mtDNA database
-5. []()
+5. [Helix Mitochondrial database](https://www.helix.com/pages/mitochondrial-variant-database) - The largest publicly available mitochondrial variant database 
 
 ### Ecological genetics
 
