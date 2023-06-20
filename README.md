@@ -27,8 +27,10 @@
 ### Specific tools
 
 1. [MitoScape](https://github.com/CHOP-CMEM/MitoScape) - big-data, machine-learning workflow for obtaining mtDNA sequence from NGS data.
-2. []() - 
+2. [MitoAalt](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009242) - Accurate mapping of mitochondrial DNA deletions and duplications using deep sequencing 
+3. [eKLIPse](https://github.com/dooguypapua/eKLIPse) - a sensitive tool for the detection and quantification of mitochondrial DNA deletions from next-generation sequencing data
+4. [MitoHPC](https://github.com/dpuiu/MitoHPC) - 
 
 ### Key papers
 
-1. ...
+1. 
